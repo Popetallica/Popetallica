@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Popetallica
+- 👋 Hi, I’m Popi
+- 
 - 🌱 I’m currently learning Front-end development (HTML,CSS,Javascript)
 
 <!---
